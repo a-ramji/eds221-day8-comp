@@ -174,9 +174,9 @@ ggplot(data = lizards, aes(x = total_length, y = weight)) +
 ```{r}
 ggplot(data = lizards, aes(x = total_length, y = weight)) + 
   geom_point(aes(color = weight)) +
-  scale_y_continuous(limits = c(0, 100),
+  scale_y_continuous(limits = c(0, 80),
                      breaks = seq(from = 0, to = 80, by = 20),
                      expand = c(0,0)
                      ) +
-  scale_color_gradientn(colors = c("yellow", "orange", "purple"))
+  scale_color_gradientn(colors = c("yellow", "orange", "blue", "purple"))
 ```
