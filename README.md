@@ -1,6 +1,12 @@
 # EDS 221 - Day 8 Computational Session
 
 Customizing data visualizations with ggplot2
+Slides:
+https://docs.google.com/presentation/d/e/2PACX-1vSpUdai7BTXprh3dwSNBpJymNGUIOFhEgQn5XbQWZhWy8EpUyd64Lem08YK_kc6tP0iyoJ5wRAVvSYe/pub?start=false&loop=false&delayms=3000&slide=id.p
+
+
+Instructions:
+https://allisonhorst.github.io/eds221-day8-comp/data_viz.html
 
 ### Required packages: 
 
